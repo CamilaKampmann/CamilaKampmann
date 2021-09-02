@@ -8,7 +8,7 @@
 
 <br>
 
-Minhas formações (até o momento):
+<h2> Minhas formações (até o momento): </h2>
 - ✨ Inglês - Nível básico ✨
 - ✨ HTML5 e CSS3 ✨
 - ✨ Lógica de programação ✨
