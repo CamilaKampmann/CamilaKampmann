@@ -6,7 +6,9 @@
 - ✨ Tenho 15 anos ✨
 - ✨ Sou uma amante da leitura ✨
 
-- Minhas formações (até o momento):
+<br>
+
+Minhas formações (até o momento):
 - ✨ Inglês - Nível básico ✨
 - ✨ HTML5 e CSS3 ✨
 - ✨ Lógica de programação ✨
