@@ -7,7 +7,7 @@
 - ✨ Sou uma amante da leitura ✨
 
 <div>
-    <img align="right" height="220" src="https://c.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
+    <img align="right" height="200" src="https://c.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
 </div>
 
 <div>
