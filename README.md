@@ -6,6 +6,13 @@
 - ✨ Tenho 15 anos ✨
 - ✨ Sou uma amante da leitura ✨
 
+- Minhas formações (até o momento):
+- ✨ Inglês - Nível básico ✨
+- ✨ HTML5 e CSS3 ✨
+- ✨ Lógica de programação ✨
+- ✨ Oratória e Comunicação ✨
+- ✨ Administração ✨
+
 <div>
     <img align="right" height="200" src="https://c.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
 </div>
