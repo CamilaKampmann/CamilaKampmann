@@ -1,5 +1,9 @@
 ### Oi! Eu sou a Camila Kampmann
 
+<div>
+    <img align="right" height="250" src="https://c.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
+</div>
+
 - ✨ Contate-me pelo email: camila.kampmann.github@gmail.com ✨
 - ✨ Estudante do ensino médio ✨
 - ✨ Cursando programação na plataforma da Alura ✨
@@ -14,13 +18,9 @@
 - ✨ Administração ✨
 
 <div>
-    <img align="right" height="200" src="https://c.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
-</div>
-
-<div>
   <a href="https://github.com/CamilaKampmann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaKampmann&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaKampmann&layout=compact&langs_count=7&theme=radical"/>  
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CamilaKampmann&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="140em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaKampmann&layout=compact&langs_count=7&theme=omni"/>  
 </div>
   
 <div style="display: inline_block"> <br>
