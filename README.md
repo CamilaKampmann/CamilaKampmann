@@ -11,7 +11,7 @@
 - ✨ Sou uma amante da leitura ✨
 
 ### Minhas formações (até o momento): </h2>
-- ✨ Inglês - Nível básico ✨
+- ✨ Inglês - Nível básico/médio ✨
 - ✨ HTML5 e CSS3 ✨
 - ✨ Lógica de programação ✨
 - ✨ Oratória e Comunicação ✨
