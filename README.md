@@ -4,18 +4,18 @@
     <img align="right" height="250" src="https://c.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
 </div>
 
-- ✨ Contate-me pelo email: camila.kampmann.github@gmail.com ✨
-- ✨ Estudante do ensino médio ✨
-- ✨ Cursando programação na plataforma da Alura ✨
-- ✨ Tenho 15 anos ✨
-- ✨ Sou uma amante da leitura ✨
+- Contate-me pelo email: camila.kampmann.github@gmail.com ✨
+- Estudante do ensino médio ✨
+- Cursando programação na plataforma da Alura ✨
+- Tenho 15 anos ✨
+- Sou uma amante da leitura ✨
 
 ### Minhas formações (até o momento): </h2>
-- ✨ Inglês - Nível básico/médio ✨
-- ✨ HTML5 e CSS3 ✨
-- ✨ Lógica de programação ✨
-- ✨ Oratória e Comunicação ✨
-- ✨ Administração ✨
+- Inglês - Nível básico/médio ✨
+- HTML5 e CSS3 ✨
+- Lógica de programação ✨
+- Oratória e Comunicação ✨
+- Administração ✨
 
 <div>
   <a href="https://github.com/CamilaKampmann">
