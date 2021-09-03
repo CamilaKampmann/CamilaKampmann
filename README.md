@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Camila Kampmann
 
 <div>
-    <img align="right" height="250" src="https://c.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
+    <img align="right" height="280" src="https://c.tenor.com/ubkgsEHmfe4AAAAC/anime-aesthetic.gif">
 </div>
 
 - Contate-me pelo email: camila.kampmann.github@gmail.com ✨
